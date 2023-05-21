@@ -1,0 +1,4 @@
+1;01;Chrudim;Mesto v pardubickem kraji
+2;02;Benatky;Italska zatopena dira
+3;03;Pariz;Nikdo nemluvi cesky
+4;02;Benatky;Uz znova
